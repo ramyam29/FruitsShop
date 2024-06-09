@@ -1,2 +1,22 @@
-body{font-weight: bold;
+body {
+  display: flex;
+  justify-content: center;
+}
+ol {
+  padding-top: 20px;
+  font-size: 20px;
+}
+
+li{
+  font-style: oblique;
+  padding: 10px  20px;
+  border: 2px rgb(229, 146, 146) solid;
+  border-radius: 2rem;
+  box-shadow: inset;
+  box-shadow: 5px 10px 5px  #888;
+  margin-bottom: 10px;
+}
+
+li:hover{
+  transform: scale(1.12);
 }
