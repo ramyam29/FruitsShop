@@ -18,6 +18,7 @@ ol {
 
 li {
   font-style: oblique;
+  list-style: none;
   padding: 10px 20px;
   border: 2px rgb(229, 146, 146) solid;
   border-radius: 2rem;
